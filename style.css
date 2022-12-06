@@ -1,0 +1,9 @@
+canvas {
+    position: fixed !important;
+    top: 5;
+    left: 5;
+  }
+
+  *{
+    background-color: black;
+  }
